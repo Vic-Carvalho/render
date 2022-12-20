@@ -1,9 +1,39 @@
 {
-    "frutas": [
+    "salaodeBeleza": [
         {
-        "banana": 2,
-        "maca": 1,
-        "pera": 3
+            "cabelereiro": 1,
+            "barbeiro": 2,
+            "manicure":3,
+            "recepcionista":4
+
         }
+    ],
+
+    "cabelereiro": [
+        {
+        "escovaSimples": 1,
+        "hidratacao": 2,
+        "coloracao": 3,
+        "corte": 4 
+        }
+
+    ],
+    
+    
+    "barbeiro": [
+        {
+            "corte":1,
+            "reflexo":2,
+            "barba modelada": 3,
+            "tintura":4
+        }
+            
+
+        
     ]
+    
 }
+
+
+
+
